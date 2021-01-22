@@ -1,0 +1,25 @@
+
+
+.container{
+    display: block;
+    box-sizing: border-box;
+}
+.container .py-4{
+    border: 2px solid gray;
+    margin-top: 50px;
+    background: #eeff;
+}
+h1{
+    text-align: center;
+    color: blue;
+    font-size: 50px;
+    margin-top: 50px;
+}
+h2{
+    text-align: center;
+    margin: 16px;
+    color: grey;
+}
+h2 span{
+    color: purple;
+}

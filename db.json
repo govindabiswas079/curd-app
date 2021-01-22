@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "Prem Biswas",
+      "username": "prem@",
+      "email": "govindbiswas079@gmail.com",
+      "phone": "09511723507",
+      "website": "biswasmotors.com",
+      "id": 16
+    },
+    {
+      "name": "Amit Amol Biswas",
+      "username": "Amitbiswas@",
+      "email": "abiswas01@gmail.com",
+      "phone": "7890654321",
+      "website": "example.com",
+      "id": 17
+    },
+    {
+      "name": "Kapil Biswas ",
+      "username": "kapil@",
+      "email": "kbiswas@gmail.com",
+      "phone": "09511723507",
+      "website": "example.com",
+      "id": 18
+    },
+    {
+      "name": "tejes biswas ",
+      "username": "tbiswas@",
+      "email": "tb@gmail.com",
+      "phone": "9087654321",
+      "website": "tb.com",
+      "id": 19
+    }
+  ]
+}
